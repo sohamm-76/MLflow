@@ -1,6 +1,7 @@
 # MLflow
 mlruns/
 mlartifacts/
+mlflow.db
 
 # Model files
 *.pkl
